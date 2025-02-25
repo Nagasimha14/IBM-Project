@@ -1,0 +1,7 @@
+flask
+streamlit
+numpy
+scikit-learn
+optuna
+joblib
+requests
